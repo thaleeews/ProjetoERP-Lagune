@@ -1,0 +1,140 @@
+c:\users\thales\documents\visual studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.exe.config
+c:\users\thales\documents\visual studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.csprojResolveAssemblyReference.cache
+c:\users\thales\documents\visual studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Properties.Resources.resources
+c:\users\thales\documents\visual studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.csproj.GenerateResource.Cache
+c:\users\thales\documents\visual studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.exe
+c:\users\thales\documents\visual studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.pdb
+c:\users\thales\documents\visual studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.exe
+c:\users\thales\documents\visual studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.pdb
+c:\users\thales\documents\visual studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmCadastroFornecedores.resources
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.exe.config
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.exe
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.pdb
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.exe
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.pdb
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.csprojResolveAssemblyReference.cache
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmCadastroFornecedores.resources
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmCadastroProdutos.resources
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Properties.Resources.resources
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.csproj.GenerateResource.Cache
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmSelecaoAcertoEstqPROD.resources
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmAcertoEstMateriaP.resources
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.AcertoEstoque.FrmAcertoEstEmbal.resources
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmPrincipal.resources
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.AcertoEstoque.FrmAcertoEstProdutoAcabado.resources
+C:\Users\Lagune04\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Pedidos.FrmPedidos.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmPrincipal.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Pedidos.FrmPedidos.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.exe.config
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.exe
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.pdb
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.csprojResolveAssemblyReference.cache
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmPrincipal.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmCadastroFornecedores.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Pedidos.FrmPedidos.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Properties.Resources.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.csproj.GenerateResource.Cache
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.exe
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.pdb
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradaNotaFiscal.FrmEntradaNota.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.CadastroClientes.FrmCadastroClientes.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Producao.OrdemProducao.FrmOrdemProducao.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Cadastros.CadastroProdutos.FrmCadastroProdutos.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.FrmDespesas.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.CadastroClientes.FrmCadastroClientes.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Cadastros.CadastroProdutos.FrmCadastroProdutos.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Compras.Pedidos.FrmRelatorioPedidos.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradaNotaFiscal.FrmEntradaNota.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.FrmDespesas.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Producao.OrdemProducao.FrmOrdemProducao.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Relatorios.FrmRelFin.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradasSaidas.SaidaNotaFiscal.FrmSaidaNota.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradasSaidas.AcompanhamentoCarga.FrmAcompanha.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradasSaidas.AcompanhamentoCarga.FrmPesquisaAcom.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Estoque.FrmAcertoEst.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Vendas.FrmNovoPedido.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Vendas.Orcamento.FrmOrcamento.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.exe.licenses
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmValidar.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradasSaidas.AcompanhamentoCarga.FrmAcompanha.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradasSaidas.AcompanhamentoCarga.FrmPesquisaAcom.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradasSaidas.SaidaNotaFiscal.FrmSaidaNota.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Estoque.FrmAcertoEst.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Estoque.Transferencia.FrmTransferencia.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmValidar.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Vendas.FrmNovoPedido.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Vendas.Orcamento.FrmOrcamento.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.exe.licenses
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Cadastros.CadastroUsuario.FrmCadastroUsuario.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Cadastros.CadastroUsuario.FrmCadastroUsuario.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmConfig.resources
+C:\Users\Thales\Documents\Visual Studio 2015\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmConfig.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.FrmContasAReceber.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Producao.OrdemEnvase.FrmOrdemEnvase.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.ContasPagas.FrmContasPagas.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.Estimativas.FrmEstimativas.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.ControleCheques.FrmControleCheques.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.ControleBancario.FrmControleBancario.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Producao.PosProducao.FrmPosProducao.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Estoque.Transferencia.FrmAprovar.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Compras.Pedidos.FrmHistorico.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Cadastros.CadastroTransp.FrmTransp.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Registros.FrmRegTransp.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Registros.FrmRegProd.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Producao.PosEnvase.FrmPosEnvase.resources
+C:\Users\Lagune04\Desktop\Docs\Projects\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Vendas.CancelarOuAlterar.FrmCancelarOuAlterar.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.exe.config
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.exe
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.pdb
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.exe
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\bin\Debug\ProjetoLagune.pdb
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.csprojResolveAssemblyReference.cache
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.CadastroClientes.FrmCadastroClientes.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Cadastros.CadastroProdutos.FrmCadastroProdutos.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Cadastros.CadastroTransp.FrmTransp.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Cadastros.CadastroUsuario.FrmCadastroUsuario.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Compras.Pedidos.FrmHistorico.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradasSaidas.AcompanhamentoCarga.FrmAcompanha.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradasSaidas.AcompanhamentoCarga.FrmPesquisaAcom.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradaNotaFiscal.FrmEntradaNota.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.EntradasSaidas.SaidaNotaFiscal.FrmSaidaNota.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Estoque.FrmAcertoEst.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Estoque.Transferencia.FrmAprovar.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.FrmContasAReceber.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.FrmDespesas.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.ContasPagas.FrmContasPagas.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.ControleBancario.FrmControleBancario.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.ControleCheques.FrmControleCheques.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Financas.Estimativas.FrmEstimativas.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmConfig.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmPrincipal.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmCadastroFornecedores.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Pedidos.FrmPedidos.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.FrmValidar.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Producao.OrdemEnvase.FrmOrdemEnvase.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Producao.OrdemProducao.FrmOrdemProducao.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Producao.PosEnvase.FrmPosEnvase.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Producao.PosProducao.FrmPosProducao.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Properties.Resources.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Registros.FrmRegProd.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Registros.FrmRegTransp.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Vendas.CancelarOuAlterar.FrmCancelarOuAlterar.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Vendas.FrmNovoPedido.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.Vendas.Orcamento.FrmOrcamento.resources
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.csproj.GenerateResource.Cache
+C:\Users\csa-01\Desktop\ProjetoLagune\ProjetoLagune\obj\Debug\ProjetoLagune.exe.licenses
